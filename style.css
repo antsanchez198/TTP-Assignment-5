@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    padding: 30px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
+.pink {
+    background-color: pink;
+}
